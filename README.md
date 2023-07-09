@@ -1,123 +1,52 @@
-# Aprendendo a aprender
+<h1 align="center"> DevLinks </h1>
 
-## Class 4
+<p align="center">
+Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
+<a href="https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito">Estude esse projeto em formato de vídeo clicando aqui.</a>
+</p>
 
-- PARE
-  - Perguntar
-  - Anotar
-  - Revisar
-  - Explicar
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
 
-# JavaScript
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
 
-## Class 1
+<br>
 
-Algoritmos, Lógica de programação e Sintaxe
+<p align="center">
+  <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
+</p>
 
-- Algorithms
+## 🚀 Tecnologias
 
-  - Sequência de passos, conjunto de regras
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- Logic of programming
+- HTML e CSS
+- JavaScript
+- Git e Github
+- Figma
 
-  - Maneira de pensar
+## 💻 Projeto
 
-- Syntax
-  - Maneira correta de escrever
+O DevLinks é um agregador de links para usar como cartão de visitas online.
 
-## Class 2
+- [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
 
-Introdução ao JavaScript
+- [Assistir aulas](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito)
 
-- Applications of JavaScript
-  - Para WEB, Desktop (Electron) e Mobile (React Native)
+## 🔖 Layout
 
-## Class 3
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
-Variáveis e Tipos de dados
+## :memo: Licença
 
-- Dadas types of JavaScript
+Esse projeto está sob a licença MIT.
 
-  - Text
-    - String
-      - ""
-      - ''
-      - ``
-  - Number
-    - 1
-    - 1.2
-  - Boolean
-    - True
-    - False
+---
 
-- Variables types
-  - var
-  - let
-  - const
-
-## Class 4
-
-Funções
-
-- Agrupamento de códigos
-- Reuso de código
-- Mini programas dentro do programa maior
-- Toda linguagem oferece muitas opções
-
-## Class 5
-
-Objetos
-
-- Atributos
-  - São as propriedades de um objeto
-- Métodos
-  - São as funcionalidades de um objeto
-
-```javascript
-const phone = {
-  color: "black",
-  call: function () {
-    alert("ligando...")
-  },
-}
-
-phone.call()
-```
-
-## Class 6
-
-Adicionando lógica e condições
-
-## Class 7
-
-Atualizando atributos HTML
-
-# Git e GitHub
-
-## git init
-
-Inicia o git (repositório) no seu projeto
-
-## git add .
-
-Adicionatodos os arquivos modificados, ao stage
-
-## git commit -m "message here"
-
-cria e descreve um ponto na história
-
-## git push
-
-envia alterações para o repositório remoto
-
-Só teste
-
-<!-- alt + shift + f -->
-
-| title   |    description    | description |
-| ------- | :---------------: | ----------: |
-| Title 1 | Qualquer coisinha |   blablabla |
-| Title 1 | Qualquer coisinha |   blablabla |
-| Title 1 | Qualquer coisinha |   blablabla |
-| Title 1 | Qualquer coisinha |   blablabla |
-| Title 1 | Qualquer coisinha |   blablabla |
+Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
